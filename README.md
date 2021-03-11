@@ -11,5 +11,5 @@ Interests : Frontend, Backend and Mobile Development
 Organization : Logicea
 
 ![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimTheo-Dev&count_private=true&show_icons=true&theme=dark&hide=contribs)
-![Jim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DimitrisTheo&theme=dark)
+![Jim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JimTheo-Dev&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimTheo-Dev&layout=compact&theme=dark)
