@@ -5,9 +5,7 @@ I am a 19-year-old passionate software engineer from Greece who is highly driven
 About
 
 Position : Software Engineer
-
 Interests : Frontend, Backend and Mobile Development
-
 Organization : Logicea
 
 ![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimTheo-Dev&count_private=true&show_icons=true&theme=dark)
