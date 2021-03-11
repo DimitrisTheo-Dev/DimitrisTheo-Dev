@@ -1,2 +1,2 @@
-# My-Profile
-This is my profile description.
+Hi there!👋🏻
+https://github-readme-stats.vercel.app/api?username=JimTheo-Dev&count_private=true&hide=issues
