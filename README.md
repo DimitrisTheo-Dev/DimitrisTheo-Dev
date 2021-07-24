@@ -1,6 +1,7 @@
 Hi there!👋🏻
 
-I am a 19-year-old passionate software engineer from Greece who is highly driven and comfortable with RESTful architecture. I built highly scalable web apps that scaled to thousands of users and drove the product vision for my company. I have been programming since I was 12 years of age, constantly looking for the next brain-stimulating project. I am always excited to work with new frameworks and tools. I love doing web and mobile projects and I have multiple contributions on GitHub.
+I am a 19-year-old passionate software engineer from Greece who is highly driven and well-versed with the development of state-of-the-art websites.
+I have collaborated with dozens of developers in order to ship top-notch software. I have been programming since I was 12 years of age, constantly looking for the next brain-stimulating project. Always excited to expand my knowledge with reliable software architecture, programming, and cutting-edge technology trends.
 
 About
 
