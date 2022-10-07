@@ -40,10 +40,8 @@ Organization : GWI
 <br />
 
 #
-<div>
-  <span>Subscribe to my Youtube Channel -> </span> 
- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]  (https://www.youtube.com/c/DimitrisTheo?sub_confirmation=1)
-</div>
+ <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20To%20My%20Youtube%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/> https://www.youtube.com/c/DimitrisTheo?sub_confirmation=1
+
 #
 
 ### 📊 Stats
