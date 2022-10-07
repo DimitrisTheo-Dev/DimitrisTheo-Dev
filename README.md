@@ -11,23 +11,9 @@ I am a 20-year-old passionate software engineer from Greece with over one year o
 
 About
 
-Position : Software Engineer
-
-Interests : Frontend, Backend and Mobile Development
+Position : Frontend Engineer
 
 Organization : GWI
-
-![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitrisTheo-Dev&count_private=true&show_icons=true&theme=dark&hide=contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisTheo-Dev&layout=compact&theme=dark)
-
-   <p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DimitrisTheo-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DimitrisTheo-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
 
 ### 🧰 Languages and Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -61,9 +47,10 @@ Organization : GWI
 
 ### 📊 Stats
 
-![Dimitris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitrisTheo-Dev&show_icons=true&theme=gruvbox)
+![Dimitris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitrisTheo-Dev&show_icons=true&theme=dark)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=DimitrisTheo-Dev&theme=gruvbox&border_radius=4.5) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisTheo-Dev&layout=compact&theme=dark)
+
 
 #
 
