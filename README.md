@@ -45,12 +45,6 @@ Organization : GWI
 
 #
 
-### 📊 Stats
-
-![Dimitris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitrisTheo-Dev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisTheo-Dev&layout=compact&theme=dark)
-
 
 #
 
