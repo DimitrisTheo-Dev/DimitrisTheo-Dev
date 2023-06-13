@@ -46,10 +46,5 @@ Organization : GWI
 #
 
 
-#
-
-<details>
- <summary><h3>👨🏻‍💻Coding Journey</h3></summary>
- Coming Soon :)
 
 [youtube]:https://www.youtube.com/c/DimitrisTheo
