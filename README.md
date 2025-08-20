@@ -6,7 +6,7 @@
 Hi there!👋🏻
 
 
-I am a passionate Software Engineer from Greece currently working at Kaizen Gaming (Stoiximan/Betano), and I have almost half a decade of professional experience. Coding since I was 12, I am a continuous learner, always staying updated on industry trends. I specialize in UX, design, and the development of complex web applications, collaborating with cross-functional teams worldwide on a multi-year vision with incremental deliverables.
+I am a Software Engineer from Greece currently working at Kaizen Gaming (Stoiximan/Betano), with over 5 years of professional experience. Coding since I was 12, I am a continuous learner, always staying updated on industry trends. I specialize in UX, design, and the development of complex web applications, collaborating with cross-functional teams worldwide on a multi-year vision with incremental deliverables.
 
 ### 🧰 Languages and Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
