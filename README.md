@@ -6,6 +6,7 @@
 Hi there!👋🏻
 
 Co-founder & SWE @ QasperAI | Building the business registry for the AI era.
+<br />
 Software Engineer with 6+ years of professional experience, coding since age 12, and working since 18. 
 
 ### 🧰 Languages and Tools
