@@ -5,7 +5,6 @@
 
 Hi there!👋🏻
 
-<br />
 Product Engineer with 6+ years of professional experience, coding since age 12, and working since 18. 
 
 ### 🧰 Languages and Tools
