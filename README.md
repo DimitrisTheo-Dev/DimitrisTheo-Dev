@@ -7,16 +7,6 @@ Hi there!👋🏻
 
 I build web and mobile products, with 6+ years of professional experience. Coding since age 12, and working since 18. I specialize in React and TypeScript, work across the stack, and take products from early decisions to production. Based in Athens, working remotely.
 
-
-
-### 🧰 Languages and Tools
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-
-<br />
-
 #
 <br />
 
